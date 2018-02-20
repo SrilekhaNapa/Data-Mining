@@ -1,2 +1,2 @@
 # Data-Mining
-Sentiment Analysis using Text Analystics 
+Sentiment Analysis using Text Analytics 
